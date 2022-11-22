@@ -1,0 +1,2 @@
+json资源代码地址：https://github.com/ITliu145632/PatchTest/blob/master/catalog_2020.05.13.03.25.40.json
+Raw资源地址：https://raw.githubusercontent.com/ITliu145632/PatchTest/master/catalog_2020.05.13.03.25.40.json
